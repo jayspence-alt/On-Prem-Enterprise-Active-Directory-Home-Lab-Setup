@@ -45,7 +45,9 @@ A home lab project simulating an on-premises enterprise Active Directory environ
 
     - Deploy a VM running Windows Server.
       - <img width="654" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1226627b-8847-4b34-9b8a-3be51499d2ea" />
+      
         **- We will be using Windows Server 2022 Edition**
+        
       - <img width="1042" height="785" alt="Screenshot_2" src="https://github.com/user-attachments/assets/13fa5a71-327b-400d-b106-cca9b15bf6fb" />
       - <img width="1902" height="1016" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2319d20c-92a7-47c4-bc27-d429e5cd12e5" />
 
