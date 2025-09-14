@@ -35,4 +35,16 @@ A home lab project simulating an on-premises enterprise Active Directory environ
 
     - Install a hypervisor (VMware Workstation, VirtualBox, or Hyper-V).
 
+      - I will be using VirtualBox.
+
     - Download ISO files for Windows Server and Windows 10/11 clients.
+
+      - I already have ISO files for Windows Server 2022, Windows 10, Kali Linux and PFSense.
+
+  - 2. Create the Domain Controller (DC)
+
+    - Deploy a VM running Windows Server.
+
+    - Install the Active Directory Domain Services (AD DS) role.
+
+    - Promote the server to a Domain Controller and create a new forest (e.g., lab.local).
