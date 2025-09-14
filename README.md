@@ -31,7 +31,7 @@ A home lab project simulating an on-premises enterprise Active Directory environ
 
 - 🚀 Setup Steps
 
-  - 1. Prepare Your Environment:
+**- Step 1. Prepare Your Environment:**
 
     - Install a hypervisor (VMware Workstation, VirtualBox, or Hyper-V).
 
@@ -40,8 +40,8 @@ A home lab project simulating an on-premises enterprise Active Directory environ
     - Download ISO files for Windows Server and Windows 10/11 clients.
 
       **- I already have ISO files for Windows Server 2022, Windows 10, Kali Linux and PFSense.**
-
-  - 2. Create the Domain Controller (DC)
+      
+**- Step 2. Create the Domain Controller (DC)**
 
     - Deploy a VM running Windows Server.
       - <img width="654" height="495" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1226627b-8847-4b34-9b8a-3be51499d2ea" />
